@@ -1,1 +1,1 @@
-# Electric_cash_counter_system
+# Electric cash counter system
